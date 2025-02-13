@@ -1,6 +1,6 @@
 # SQL Project Job data analysis
-This project focuses on data job market. With main goal on analysing Data Analyst roles, this project explores top paying jobs, in-demand skills, where high demand meers high salary.
-There are several SQL querties that I used that can be found here: [project_sql_folder](/link)
+This project focuses on the data job market, with the main goal of analyzing Data Analyst roles. It explores top-paying jobs, in-demand skills, and where high demand meets high salaries.
+I did this project while following the SQL learning course made by Luke Barousse on his YouTube channel: https://www.youtube.com/watch?v=7mz73uXD9DA
 
 # Questions that I wanted to answer through my SQL queries were:
 1) What are top paying data analyst jobs?
